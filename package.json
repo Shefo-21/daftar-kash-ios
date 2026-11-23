@@ -1,0 +1,1 @@
+{"description":"دفتر كاش المحل للموبايل — مشروع تخرج","devDependencies":{"@capacitor/android":"^6.0.0","@capacitor/cli":"^6.0.0","@capacitor/core":"^6.0.0","@capacitor/ios":"^6.0.0"},"name":"daftar-kash-app","private":true,"scripts":{"sync":"npx cap sync"},"version":"1.0.0"}
