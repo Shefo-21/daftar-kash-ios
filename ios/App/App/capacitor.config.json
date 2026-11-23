@@ -1,0 +1,10 @@
+{
+	"appId": "com.sherif.daftarkash",
+	"appName": "دفتر كاش المحل",
+	"backgroundColor": "#0d6e4f",
+	"server": {
+		"androidScheme": "https"
+	},
+	"webDir": "www",
+	"packageClassList": []
+}
